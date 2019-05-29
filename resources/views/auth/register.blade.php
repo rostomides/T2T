@@ -207,7 +207,7 @@
 
 <script>
  // Create a Stripe client.
- var stripe = Stripe('pk_test_txiIMqLWelx28ceDt3SPYCoH');
+ var stripe = Stripe('');
 
 // Create an instance of Elements.
 var elements = stripe.elements();
